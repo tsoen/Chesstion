@@ -1,0 +1,4079 @@
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 6 ms
+Readonly to False
+Readonly to True
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 238 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 228 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 225 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+CustomComboBox ex : La référence d'objet n'est pas définie à une instance d'un objet.
+   à ChessTion.Vue.CustomControls.SpecificControls.CustomBoxes.CustomComboBoxes.CustomComboBox.OnSelectedValueChanged(EventArgs e) dans C:\Users\Gaetan\Dropbox\IUT\S3\T3\T3_Echecs_BRS\Logiciel_Lourd\ChessTion\ChessTion\Vue\CustomControls\SpecificControls\CustomBoxes\CustomComboBoxes\CustomComboBox.cs:ligne 174
+ChessTion
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 226 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 231 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 236 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00647950
+NewValue de NrFFE : C03276
+NewValue de NeLe : 09/05/1973
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1797
+NewValue de FideTitre :   
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 4432; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 4432; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 4432; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 4432; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 4432; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 307 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 159 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 228 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerOpen(int) - LoadOpenToPanels() takes 240 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 233 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+ClubRef CheckErrored() (Ref 77; error 730. CE Le Roi Soleil - Le Chesnay - Versailles)
+ClubRef Errored = true
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = True)
+ClubRef errored = false
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 299 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00647950
+NewValue de NrFFE : C03276
+NewValue de NeLe : 09/05/1973
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1797
+NewValue de FideTitre :   
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 4432; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 4432; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 4432; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 4432; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 4432; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 235 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00647950
+NewValue de NrFFE : C03276
+NewValue de NeLe : 09/05/1973
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1797
+NewValue de FideTitre :   
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 4432; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 4432; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 4432; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 4432; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 4432; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 230 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerOpen(int) - LoadOpenToPanels() takes 243 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 156 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 229 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+CustomComboBox ex : La référence d'objet n'est pas définie à une instance d'un objet.
+   à ChessTion.Vue.CustomControls.SpecificControls.CustomBoxes.CustomComboBoxes.CustomComboBox.OnSelectedValueChanged(EventArgs e) dans C:\Users\Gaetan\Dropbox\IUT\S3\T3\T3_Echecs_BRS\Logiciel_Lourd\ChessTion\ChessTion\Vue\CustomControls\SpecificControls\CustomBoxes\CustomComboBoxes\CustomComboBox.cs:ligne 174
+ChessTion
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 231 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+INSERT INTO JOUEUR VALUES (4432, 'C03276', 'HARISTOY', 'Julien', 'M', FORMAT('09/05/1973', 'dd/mm/yyyy'), 'SenM', 'FRA', 2321, 1797, 1650, 'F', '00647950', '  ', 'N', '2016');
+INSERT INTO JOUEUR VALUES (77, 'A00031', 'ADAM', 'Serge', 'M', FORMAT('26/12/1930', 'dd/mm/yyyy'), 'VetM', 'FRA', 730, 1663, 1820, 'F', '00695530', '  ', 'N', '2016');
+INSERT INTO CLUB VALUES (730, 'M78002', 'CE Le Roi Soleil - Le Chesnay - Versailles', 'IDF', 'LE CHESNAY', '2013')
+INSERT INTO CLUB VALUES (2321, 'B68104', 'Cercle d''Echecs de la Thur', 'ALS', 'THANN', '2013')
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+Readonly to True
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : 
+NewValue de NeLe : 01/01/1950
+NewValue de Sexe : F
+NewValue de Cat : 
+NewValue de Federation : fra
+NewValue de Elo : 1500
+NewValue de FideTitre : 
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10000000; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 246 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : 
+NewValue de NeLe : 01/01/1950
+NewValue de Sexe : F
+NewValue de Cat : 
+NewValue de Federation : fra
+NewValue de Elo : 1500
+NewValue de FideTitre : 
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10000000; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 232 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+INSERT INTO JOUEUR VALUES (10000000, '', 'DIEU', 'moi', 'F', FORMAT('01/01/1950', 'dd/mm/yyyy'), '', 'fra', 41, 1500, 0, '', '', '', '', '');
+INSERT INTO CLUB VALUES (41, 'B68077', '"cle" Club Lutterbachois d''Echecs', 'ALS', 'LUTTERBACH', '2013')
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : 
+NewValue de NeLe : 01/01/1950
+NewValue de Sexe : F
+NewValue de Cat : 
+NewValue de Federation : fra
+NewValue de Elo : 1500
+NewValue de FideTitre : 
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10000000; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 235 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : 
+NewValue de NeLe : 01/01/1950
+NewValue de Sexe : F
+NewValue de Cat : 
+NewValue de Federation : fra
+NewValue de Elo : 1500
+NewValue de FideTitre : 
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10000000; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 243 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : 
+NewValue de NeLe : 01/01/1950
+NewValue de Sexe : F
+NewValue de Cat : 
+NewValue de Federation : fra
+NewValue de Elo : 1500
+NewValue de FideTitre : 
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10000000; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 232 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : 
+NewValue de NeLe : 01/01/1950
+NewValue de Sexe : F
+NewValue de Cat : 
+NewValue de Federation : fra
+NewValue de Elo : 1500
+NewValue de FideTitre : 
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10000000; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 234 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : 
+NewValue de NeLe : 01/01/1950
+NewValue de Sexe : F
+NewValue de Cat : 
+NewValue de Federation : fra
+NewValue de Elo : 1500
+NewValue de FideTitre : 
+NewValue de Email : 
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10000000; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10000000; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10000000; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 230 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to False
+Readonly to False
+Readonly to True
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 228 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00695530
+NewValue de NrFFE : A00031
+NewValue de NeLe : 26/12/1930
+NewValue de Sexe : M
+NewValue de Cat : VetM
+NewValue de Federation : FRA
+NewValue de Elo : 1663
+NewValue de FideTitre :   
+NewValue de Email : gaetan.roger@etu.unistra.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 77; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 77; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 77; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 231 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+INSERT INTO JOUEUR VALUES (77, 'A00031', 'ADAM', 'Serge', 'M', FORMAT('26/12/1930', 'dd/mm/yyyy'), 'VetM', 'FRA', 730, 1663, 1820, 'F', '00695530', '  ', 'N', '2017');
+INSERT INTO CLUB VALUES (730, 'M78002', 'CE Le Roi Soleil - Le Chesnay - Versailles', 'IDF', 'LE CHESNAY', '2013')
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 13 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 13 ms
+Readonly to True
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to True
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+Readonly to True
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to True
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 6 ms
+Readonly to True
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to False
+Readonly to False
+Readonly to True
+Readonly to True
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 2 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 19 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 13 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 6 ms
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 14 ms
+Readonly to False
+Readonly to True
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 6 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 14 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 18 ms
+Readonly to False
+Enregistré 
+Enregistré 
+Enregistré 
+Enregistré 
+Enregistré 
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 16 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 377 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 381 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 364 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 331 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+CustomComboBox ex : La référence d'objet n'est pas définie à une instance d'un objet.
+   à ChessTion.Vue.CustomControls.SpecificControls.CustomBoxes.CustomComboBoxes.CustomComboBox.OnSelectedValueChanged(EventArgs e) dans C:\Users\timot\Desktop\T3_Echecs_BRS\Logiciel_Lourd\ChessTion\ChessTion\Vue\CustomControls\SpecificControls\CustomBoxes\CustomComboBoxes\CustomComboBox.cs:ligne 174
+ChessTion
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : test@test.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 351 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+INSERT INTO JOUEUR VALUES (10, 'H03781', 'HOARAU', 'Julien', 'M', FORMAT('07/06/1982', 'dd/mm/yyyy'), 'SenM', 'FRA', 2413, 1946, 2110, 'F', '00628840', '  ', 'N', '2017');
+INSERT INTO CLUB VALUES (2413, 'M91049', 'La tour de Juvisy', 'IDF', 'JUVISY SUR ORGE', '2013')
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to True
+Readonly to True
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmés
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmés
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Enregistré 
+Enregistré 
+Enregistré 
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 13 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmés
+TEsting open Professionnel
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 13 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+5
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to True
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 6 ms
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+5
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 4 ms
+Readonly to True
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmé
+TEsting open Professionnel
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmé
+TEsting open Professionnel
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmé
+TEsting open Professionnel
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmé
+TEsting open Professionnel
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+5
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 5 ms
+Readonly to True
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to True
+Readonly to True
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+5
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 6 ms
+Readonly to True
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmé
+TEsting open Professionnel
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmé
+TEsting open Professionnel
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmé
+TEsting open Professionnel
+TEsting open Debutant
+TEsting open Intermediaire
+TEsting open Confirmé
+TEsting open Professionnel
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 6 ms
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 4 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+Readonly to True
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 260 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 242 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 272 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 20
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 237 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+INSERT INTO JOUEUR VALUES (10, 'H03781', 'HOARAU', 'Julien', 'M', FORMAT('07/06/1982', 'dd/mm/yyyy'), 'SenM', 'FRA', 2413, 1946, 2110, 'F', '00628840', '  ', 'N', '2017');
+INSERT INTO CLUB VALUES (2413, 'M91049', 'La tour de Juvisy', 'IDF', 'JUVISY SUR ORGE', '2013')
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to True
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 15 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 14 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 13 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 13 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+Readonly to True
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 12 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 24 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 27 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 23 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 26 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 16 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 16 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 16 ms
+Readonly to True
+Readonly to True
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 32 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 26 ms
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 29 ms
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 18 ms
+Readonly to False
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 36 ms
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 13901753
+NewValue de NrFFE : C71376
+NewValue de NeLe : 28/01/1988
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : MDA
+NewValue de Elo : 2309
+NewValue de FideTitre : f 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 316815; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 316815; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316815; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316815; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 316815; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 259 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 01503014
+NewValue de NrFFE : D50113
+NewValue de NeLe : 30/11/1990
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : NOR
+NewValue de Elo : 2840
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 303767; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 303767; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 303767; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 303767; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 167 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 02020009
+NewValue de NrFFE : H50182
+NewValue de NeLe : 30/07/1992
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : USA
+NewValue de Elo : 2823
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 316852; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 282 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : N53302
+NewValue de NeLe : 20/04/2007
+NewValue de Sexe : M
+NewValue de Cat : PouM
+NewValue de Federation : FRA
+NewValue de Elo : 1009
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 45
+ClubRef CheckErrored() (Ref 809561; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 809561; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 809561; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 809561; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 166 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 02020009
+NewValue de NrFFE : H50182
+NewValue de NeLe : 30/07/1992
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : USA
+NewValue de Elo : 2823
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 316852; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 287 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 273 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 36094269
+NewValue de NrFFE : K52564
+NewValue de NeLe : 17/01/1999
+NewValue de Sexe : M
+NewValue de Cat : CadM
+NewValue de Federation : FRA
+NewValue de Elo : 1290
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 45
+ClubRef CheckErrored() (Ref 664137; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 664137; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 664137; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 664137; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 188 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 235 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 
+NewValue de NrFFE : N53302
+NewValue de NeLe : 20/04/2007
+NewValue de Sexe : M
+NewValue de Cat : PouM
+NewValue de Federation : FRA
+NewValue de Elo : 1009
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 45
+ClubRef CheckErrored() (Ref 809561; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 809561; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 809561; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 809561; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 177 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 02020009
+NewValue de NrFFE : H50182
+NewValue de NeLe : 30/07/1992
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : USA
+NewValue de Elo : 2823
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 316852; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 277 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 01503014
+NewValue de NrFFE : D50113
+NewValue de NeLe : 30/11/1990
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : NOR
+NewValue de Elo : 2840
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 303767; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 303767; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 303767; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 303767; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 194 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 00628840
+NewValue de NrFFE : H03781
+NewValue de NeLe : 07/06/1982
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : FRA
+NewValue de Elo : 1946
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 10; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 10; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 10; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 281 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 36094269
+NewValue de NrFFE : K52564
+NewValue de NeLe : 17/01/1999
+NewValue de Sexe : M
+NewValue de Cat : CadM
+NewValue de Federation : FRA
+NewValue de Elo : 1290
+NewValue de FideTitre :   
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 45
+ClubRef CheckErrored() (Ref 664137; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 664137; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 664137; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 664137; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 157 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 02020009
+NewValue de NrFFE : H50182
+NewValue de NeLe : 30/07/1992
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : USA
+NewValue de Elo : 2823
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 316852; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 244 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 02020009
+NewValue de NrFFE : H50182
+NewValue de NeLe : 30/07/1992
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : USA
+NewValue de Elo : 2823
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 316852; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 251 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+INSERT INTO JOUEUR VALUES (10, 'H03781', 'HOARAU', 'Julien', 'M', FORMAT('07/06/1982', 'dd/mm/yyyy'), 'SenM', 'FRA', 2413, 1946, 2110, 'F', '00628840', '  ', 'N', '2017');
+INSERT INTO JOUEUR VALUES (316815, 'C71376', 'BOCANCEA', 'Dmitrii', 'M', FORMAT('28/01/1988', 'dd/mm/yyyy'), 'SenM', 'MDA', 870, 2309, 2130, 'F', '13901753', 'f ', 'N', '2017');
+INSERT INTO JOUEUR VALUES (664137, 'K52564', 'MAHEUX', 'Alexandre', 'M', FORMAT('17/01/1999', 'dd/mm/yyyy'), 'CadM', 'FRA', 1418, 1290, 1370, 'N', '36094269', '  ', 'A', '2017');
+INSERT INTO JOUEUR VALUES (809561, 'N53302', 'GOUX', 'William', 'M', FORMAT('20/04/2007', 'dd/mm/yyyy'), 'PouM', 'FRA', 821, 1009, 1060, 'E', '', '  ', 'B', '2017');
+INSERT INTO JOUEUR VALUES (303767, 'D50113', 'CARLSEN', 'Magnus', 'M', FORMAT('30/11/1990', 'dd/mm/yyyy'), 'SenM', 'NOR', 734, 2840, 2845, 'F', '01503014', 'g ', 'N', '2017');
+INSERT INTO JOUEUR VALUES (316852, 'H50182', 'CARUANA', 'Fabiano', 'M', FORMAT('30/07/1992', 'dd/mm/yyyy'), 'SenM', 'USA', 815, 2823, 2783, 'F', '02020009', 'g ', 'N', '2017');
+INSERT INTO CLUB VALUES (2413, 'M91049', 'La tour de Juvisy', 'IDF', 'JUVISY SUR ORGE', '2013')
+INSERT INTO CLUB VALUES (870, 'M75043', 'Lutèce Echecs', 'IDF', 'PARIS', '2013')
+INSERT INTO CLUB VALUES (1418, 'T17058', 'La Tour de Germanicus', 'NAQ', 'SAINTES', '2013')
+INSERT INTO CLUB VALUES (821, 'M77013', 'Fontainebleau-Avon', 'IDF', 'FONTAINEBLEAU', '2013')
+INSERT INTO CLUB VALUES (734, 'M92042', 'Clichy-Echecs-92', 'IDF', 'CLICHY', '2013')
+INSERT INTO CLUB VALUES (815, 'M91010', 'Evry Grand Roque', 'IDF', 'EVRY', '2013')
+Readonly to True
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 02020009
+NewValue de NrFFE : H50182
+NewValue de NeLe : 30/07/1992
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : USA
+NewValue de Elo : 2823
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 316852; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 262 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+SelectionnerJoueur(int) - LoadJoueurFromPanel() takes 0 ms
+SelectionnerJoueur(int) - CChesstion.JoueurSelectionne = GJoueur.GetJoueur(reference); takes 0 ms
+NewValue de FideCode : 02020009
+NewValue de NrFFE : H50182
+NewValue de NeLe : 30/07/1992
+NewValue de Sexe : M
+NewValue de Cat : SenM
+NewValue de Federation : USA
+NewValue de Elo : 2823
+NewValue de FideTitre : g 
+NewValue de Email : soen@ecole.ensicaen.fr
+NewValue de FraisInscription : 50
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+ClubRef CheckErrored() (Ref 316852; error )
+ClubRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+RepasRef CheckErrored() (Ref 316852; error )
+RepasRef No error starting (errored = False)
+OpenRef CheckErrored() (Ref 316852; error )
+OpenRef No error starting (errored = False)
+SelectionnerJoueur(int) - LoadJoueurToPanel() takes 237 ms
+SelectionnerJoueur(int) - DisplayJoueurErrored takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 35 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 48 ms
+Readonly to True
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to True
+SelectionnerOpen(int) - LoadOpenToPanels() takes 25 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 34 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 60 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 74 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 79 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 49 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 77 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 43 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 55 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 36 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 55 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 69 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 81 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 44 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 60 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 78 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 55 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 78 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 36 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 56 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 74 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 76 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 35 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 51 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 76 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 64 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 54 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 26 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 10 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 55 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 24 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 56 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 52 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 54 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 7 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 67 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 1 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 61 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 72 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 66 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 55 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 81 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 11 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 60 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 73 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 47 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 80 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 27 ms
+Readonly to True
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 76 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 27 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 9 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 72 ms
+Readonly to True
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
+3
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 46 ms
+Readonly to True

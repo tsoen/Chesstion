@@ -1,0 +1,9 @@
+Nr FFE             Nom          Prenom      Phone                          Email  Importé ?                                              Error
+
+V04768    DE MAUVAISIN         Olivier 0685263514                 mail@email.com        Non                            open non trouvé (ref 2)
+W15656          SAMUEL       Christian 0685263514                 mail@email.com        Non                            open non trouvé (ref 1)
+E53771         ROUSSEL           David 0685263514                 mail@email.com        Non                            open non trouvé (ref 1)
+B01851         DEJONGH       Alexandre 0685263514                 mail@email.com        Non                            open non trouvé (ref 2)
+V01397        GAGGIOLI         Michael 0685263514                 mail@email.com        Non                            open non trouvé (ref 3)
+X16322        GENAUDET           Erick 0685263514                 mail@email.com        Non                            open non trouvé (ref 1)
+H03781          HOARAU          Julien                   timothee.soen@gmail.com        Non                            open non trouvé (ref 2)

@@ -1,0 +1,72 @@
+{
+  "Ref": 199,
+  "Nom": "DEMO Tournament",
+  "DateDebut": "21/01/2019",
+  "DateFin": "23/01/2019",
+  "NomLieu": "Club d'Echecs de l'ENSICAEN",
+  "Ville": "Caen",
+  "LieuRef": 5,
+  "AdresseNum": "6",
+  "AdresseRue": "Boulevard Maréchal Juin",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 5.0,
+  "LimiteAge": 20,
+  "NbParticipants": 500,
+  "NbOpens": 4,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Debutant",
+      "EloMax": -1
+    },
+    {
+      "Ref": 2,
+      "Nom": "Intermediaire",
+      "EloMax": 1500
+    },
+    {
+      "Ref": 3,
+      "Nom": "Confirmé",
+      "EloMax": 2000
+    },
+    {
+      "Ref": 4,
+      "Nom": "Professionnel",
+      "EloMax": 2500
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 1,
+      "Nom": "Soda",
+      "Prix": 1.0
+    },
+    {
+      "Ref": 2,
+      "Nom": "Biere",
+      "Prix": 1.0
+    },
+    {
+      "Ref": 3,
+      "Nom": "Hotdog",
+      "Prix": 2.0
+    },
+    {
+      "Ref": 4,
+      "Nom": "Frites",
+      "Prix": 2.0
+    }
+  ],
+  "Arbitre": "timothee.soen@gmail.com",
+  "Ouvert": false,
+  "Etat": 3,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": true
+}

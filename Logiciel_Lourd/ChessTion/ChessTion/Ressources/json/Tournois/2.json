@@ -1,0 +1,67 @@
+{
+  "Ref": 2,
+  "Nom": "Le tournoi oui",
+  "DateDebut": "12/12/2016",
+  "DateFin": "12/12/2016",
+  "NomLieu": "L'endroit",
+  "Ville": "Nom de Ville",
+  "LieuRef": 1,
+  "AdresseNum": "12",
+  "AdresseRue": "Place pour Être",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 0.0,
+  "LimiteAge": 20,
+  "NbParticipants": 500,
+  "NbOpens": 3,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Premier",
+      "EloMax": -1
+    },
+    {
+      "Ref": 2,
+      "Nom": "Second",
+      "EloMax": -1
+    },
+    {
+      "Ref": 3,
+      "Nom": "Troisième",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 1,
+      "Nom": "Un",
+      "Prix": 1.0
+    },
+    {
+      "Ref": 2,
+      "Nom": "Deux",
+      "Prix": 2.5
+    },
+    {
+      "Ref": 3,
+      "Nom": "Trois",
+      "Prix": 5.0
+    },
+    {
+      "Ref": 4,
+      "Nom": "Quatre",
+      "Prix": 2.55
+    }
+  ],
+  "Arbitre": "arbitre@arbitre.fr",
+  "Ouvert": true,
+  "Etat": 2,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": true
+}

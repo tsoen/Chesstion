@@ -1,0 +1,11 @@
+/*
+ * Palette de couleurs
+*/
+
+Darker:		28; 28; 28			#1C1C1C
+Dark: 		37; 37; 38			#252526
+Normal:		45; 45; 48			#2D2D30
+Bright:		63; 63; 70			#3F3F46
+White:		224; 221; 240			#E0DDF0
+Blue:						#007ACC
+Red:		252;62;54			#FC3E36

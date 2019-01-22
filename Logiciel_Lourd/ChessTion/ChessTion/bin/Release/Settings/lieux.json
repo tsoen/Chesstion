@@ -1,0 +1,36 @@
+[
+  {
+    "Ref": 1,
+    "Nom": "Paris",
+    "CodePostal": "75001",
+    "TsLesLieux": [
+      {
+        "Ref": 3,
+        "Nom": "La Tour Eiffel",
+        "Numero": "5",
+        "Rue": "Avenue Anatole"
+      },
+      {
+        "Ref": 4,
+        "Nom": "gfd",
+        "Numero": "gfd",
+        "Rue": "gfd"
+      }
+    ],
+    "NomComplet": "Paris 75001"
+  },
+  {
+    "Ref": 2,
+    "Nom": "Caen",
+    "CodePostal": "14000",
+    "TsLesLieux": [
+      {
+        "Ref": 5,
+        "Nom": "Club d'Echecs de l'ENSICAEN",
+        "Numero": "6",
+        "Rue": "Boulevard Maréchal Juin"
+      }
+    ],
+    "NomComplet": "Caen 14000"
+  }
+]

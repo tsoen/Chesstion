@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="21641bb2-c015-428b-b55d-f5ed8a60b98e" name="Chesstion" url="http://www.ecole.ensicaen.fr/~soen/public_html/Chesstion/">
+        <fileTransfer host="cybele.ecole.ensicaen.fr" port="22" rootFolder="/home/eleves/promo20/info/soen/public_html/Chesstion/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,62 @@
+{
+  "Ref": 4,
+  "Nom": "DEMO Pending Tournament",
+  "DateDebut": "16/01/2019",
+  "DateFin": "20/01/2019",
+  "NomLieu": "Club d'Echecs de l'ENSICAEN",
+  "Ville": "Caen",
+  "LieuRef": 5,
+  "AdresseNum": "6",
+  "AdresseRue": "Boulevard Maréchal Juin",
+  "PrixJeune": 15.0,
+  "PrixVieux": 18.0,
+  "Majoration": 1.0,
+  "LimiteAge": 18,
+  "NbParticipants": 100,
+  "NbOpens": 2,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Debutant",
+      "EloMax": 1100
+    },
+    {
+      "Ref": 2,
+      "Nom": "Intermediaire",
+      "EloMax": 1800
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 1,
+      "Nom": "Jus de fruit",
+      "Prix": 0.5
+    },
+    {
+      "Ref": 2,
+      "Nom": "Crepes",
+      "Prix": 0.5
+    },
+    {
+      "Ref": 3,
+      "Nom": "Soda",
+      "Prix": 1.0
+    },
+    {
+      "Ref": 4,
+      "Nom": "Chili Con Carne",
+      "Prix": 2.0
+    }
+  ],
+  "Arbitre": "soen@ecole.ensicaen.fr",
+  "Ouvert": false,
+  "Etat": 3,
+  "NbRondes": 5,
+  "DureeRonde": "50:10",
+  "ConfirmMail": false
+}

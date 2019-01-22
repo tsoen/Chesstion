@@ -1,0 +1,72 @@
+{
+  "Ref": 9,
+  "Nom": "Tournoi des vainqueurs",
+  "DateDebut": "05/12/2016",
+  "DateFin": "07/12/2016",
+  "NomLieu": "Association des bg",
+  "Ville": "Illkirch",
+  "LieuRef": 1,
+  "AdresseNum": "15A",
+  "AdresseRue": "Rue des Boloss",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 0.0,
+  "LimiteAge": 20,
+  "NbParticipants": 500,
+  "NbOpens": 3,
+  "Opens": [
+    {
+      "Ref": 5,
+      "Nom": "Nouvel Open",
+      "EloMax": -1
+    },
+    {
+      "Ref": 6,
+      "Nom": "Nouvel Open",
+      "EloMax": -1
+    },
+    {
+      "Ref": 7,
+      "Nom": "Nouvel Open",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 4,
+      "Nom": "Nouveau repas",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 5,
+      "Nom": "Nouveau repas",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 6,
+      "Nom": "Nouveau repas",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 7,
+      "Nom": "Nouveau repas",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 8,
+      "Nom": "Nouveau repas",
+      "Prix": 0.0
+    }
+  ],
+  "Arbitre": "arbitre@arbitre.fr",
+  "Ouvert": true,
+  "Etat": 2,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": false
+}

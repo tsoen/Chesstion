@@ -1,0 +1,37 @@
+{
+  "Ref": 114,
+  "Nom": "Nouveau tournoi",
+  "DateDebut": "02/12/2018",
+  "DateFin": "02/12/2018",
+  "NomLieu": "La Tour Eiffel",
+  "Ville": "Paris",
+  "LieuRef": 3,
+  "AdresseNum": "5",
+  "AdresseRue": "Avenue Anatole",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 0.0,
+  "LimiteAge": 20,
+  "NbParticipants": 500,
+  "NbOpens": 1,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Nouvel Open",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    }
+  ],
+  "Arbitre": "arbitre@arbitre.fr",
+  "Ouvert": true,
+  "Etat": 2,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": false
+}

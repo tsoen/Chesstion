@@ -1,0 +1,49 @@
+legend {
+	text-align: center;
+}
+
+.far-left {
+	padding-left: 1.5%;
+}
+
+html {
+	overflow: -moz-scrollbars-vertical;
+}
+
+.message {
+	width: 75%;
+	margin: 2rem auto 2rem;
+	padding: 1rem;
+	border: 1px solid black;
+}
+
+.error {
+	color: red;
+}
+.success {
+	color: green;
+}
+
+.col-md-3.far-left div .inline{
+	display:inline;
+}
+
+.g-recaptcha{
+	position: relative;
+
+	min-height:1px;
+	padding-right:15px;
+	padding-left:15px;
+}
+
+.homeLists {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.keeptogether {
+	text-align: center;
+	display: inline-block;
+	width: 33%;
+	vertical-align:top;
+}

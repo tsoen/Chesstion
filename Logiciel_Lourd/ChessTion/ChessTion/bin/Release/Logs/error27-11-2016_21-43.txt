@@ -1,0 +1,3 @@
+Nr FFE             Nom          Prenom      Phone                          Email  Importé ?                                              Error
+
+H03781          HOARAU          Julien                          julien@gmail.com         Oui              repas non trouvé (ref 4, -1 attribué)

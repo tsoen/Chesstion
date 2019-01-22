@@ -1,0 +1,67 @@
+{
+  "Ref": 15,
+  "Nom": "Tournoi de Noël 2016",
+  "DateDebut": "24/12/2016",
+  "DateFin": "25/12/2016",
+  "NomLieu": "L'endroit",
+  "Ville": "Nom de Ville",
+  "LieuRef": 1,
+  "AdresseNum": "12",
+  "AdresseRue": "Place pour Être",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 0.0,
+  "LimiteAge": 20,
+  "NbParticipants": 500,
+  "NbOpens": 3,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Open A",
+      "EloMax": -1
+    },
+    {
+      "Ref": 2,
+      "Nom": "Open B",
+      "EloMax": -1
+    },
+    {
+      "Ref": 3,
+      "Nom": "Open C",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 1,
+      "Nom": "Bûche",
+      "Prix": 3.0
+    },
+    {
+      "Ref": 2,
+      "Nom": "Painépices",
+      "Prix": 1.5
+    },
+    {
+      "Ref": 3,
+      "Nom": "Lotpetitsgâteaux",
+      "Prix": 2.0
+    },
+    {
+      "Ref": 4,
+      "Nom": "Saumon",
+      "Prix": 5.0
+    }
+  ],
+  "Arbitre": "arbitre@arbitre.fr",
+  "Ouvert": true,
+  "Etat": 2,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": false
+}

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb6c564e-75c1-4168-8446-abf638b0cc5a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/DATA.MDB" beforeDir="false" afterPath="$PROJECT_DIR$/DATA.MDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/controllers/controller_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/controller_base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/controllers/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/files/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/files/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/files/utils.php" beforeDir="false" afterPath="$PROJECT_DIR$/files/utils.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/js/formAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/formAnimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/js/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/105.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/109.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/51.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/52.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/53.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/54.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/55.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/62.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/69.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/93.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/json/Inscrits/95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/models/joueur.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/joueur.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/models/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/models/model_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/model_base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/errors/400.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/errors/400.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/errors/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/errors/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/errors/500.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/errors/500.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/inscription.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/inscription.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/inscrits.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/inscrits.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface_Web/views/resultats.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/resultats.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/ChessTion.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/ChessTion.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/CChesstion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/CChesstion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Accueil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Accueil.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Creation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Creation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Demarrage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Demarrage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/DurantTournoi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/DurantTournoi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Etat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Etat.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Inscriptions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/Inscriptions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/TournoiTermine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/Etats/TournoiTermine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/ImportExport/FTPAdapter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Controleur/ImportExport/FTPAdapter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/FormPrincipal.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/FormPrincipal.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/FormPrincipal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/FormPrincipal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Theme.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Theme.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Utilitaires/BaseDeDonnees.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Utilitaires/BaseDeDonnees.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Utilitaires/DPI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Utilitaires/DPI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Utilitaires/FTP.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Vue/CustomControls/GeneralControls/CustomButtons/AddButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Vue/CustomControls/GeneralControls/CustomButtons/AddButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Vue/CustomControls/SpecificControls/CustomMenus/CustomMenuStrip.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Vue/CustomControls/SpecificControls/CustomMenus/CustomMenuStrip.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Vue/CustomControls/SpecificControls/CustomPanels/CentrePanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/Vue/CustomControls/SpecificControls/CustomPanels/CentrePanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/ChessTion.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/Saves/10/clubs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/Saves/10/joueurs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/Saves/10/tournoi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/Saves/4/clubs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/Saves/4/joueurs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/Saves/4/tournoi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/Settings/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/Settings/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/tmp/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/tmp/ex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Debug/tmp/inscrits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/105.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/105.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/107.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/107.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/158.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/158.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/161.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/161.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/163.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/163.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/166.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/166.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/167.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/167.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/171.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/171.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/172.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/172.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/183.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/183.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/194.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/194.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/203.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/203.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/204.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/204.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/5.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/95.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/95.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/98.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/98.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/99.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Ressources/json/Tournois/99.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Saves/55/clubs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Saves/55/joueurs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Saves/55/tournoi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Saves/57/clubs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Saves/57/joueurs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Saves/57/tournoi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Settings/lieux.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Settings/lieux.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Settings/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/Settings/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/logs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/tmp/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/tmp/ex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/bin/Release/tmp/inscrits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/obj/Release/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/obj/Release/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/../Logiciel_Lourd/ChessTion/ChessTion/packages.config" afterDir="false" />
+    </list>
+    <ignored path="Formu.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Formu" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/inscription.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="206" column="69" selection-start-line="206" selection-start-column="69" selection-end-line="206" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/resultats.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="174" column="33" lean-forward="true" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/inscrits.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/joueur.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="74" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$row['Sexe']</find>
+      <find>$row['Federation']</find>
+      <find>$row['ClubRef']</find>
+      <find>$row['NeLe']</find>
+      <find>$row['NrFFE']</find>
+      <find>$row['Cat']</find>
+      <find>$row['Rapide']</find>
+      <find>$row['Fide']</find>
+      <find>$row['FideCode']</find>
+      <find>$row['FideTitre']</find>
+      <find>$row['AffType']</find>
+      <find>$row['Actif']</find>
+      <find>$row['Ligue']</find>
+      <find>alert</find>
+      <find>$NeLe</find>
+      <find>getInfo</find>
+      <find>Ma lic</find>
+      <find>cap</find>
+      <find>Les inscriptions sont terminées pour ce tournoi.</find>
+      <find>$_SESSION['modeFFE']</find>
+      <find>jsmessage</find>
+      <find>message error</find>
+      <find>jsmes</find>
+      <find>$_SESSION['message']</find>
+      <find>container</find>
+      <find>'Ref'</find>
+      <find>$row['Ref']</find>
+      <find>Le tourn</find>
+      <find>&quot;Le tournoi demandé</find>
+      <find>demandé</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>$row['NOM']</replace>
+      <replace>$row['PRENOM']</replace>
+      <replace>$row['ELO']</replace>
+      <replace>$row['SEXE']</replace>
+      <replace>$row['FEDERATION']</replace>
+      <replace>$row['CLUBREF']</replace>
+      <replace>$row['NELE']</replace>
+      <replace>$row['NRFFE']</replace>
+      <replace>$row['CAT']</replace>
+      <replace>$row['RAPIDE']</replace>
+      <replace>$row['FIDE']</replace>
+      <replace>$row['FIDECODE']</replace>
+      <replace>$row['FIDETITRE']</replace>
+      <replace>$row['AFFTYPE']</replace>
+      <replace>$row['ACTIF']</replace>
+      <replace>$row['LIGUE']</replace>
+      <replace>$row['REF']</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\timot\Desktop\T3_Echecs_BRS\Chesstion\controllers</dir>
+      <dir>C:\Users\timot\Desktop\T3_Echecs_BRS\Chesstion</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../bin/php/php5.6.25/php.ini" />
+        <option value="$PROJECT_DIR$/json/inscrits.json" />
+        <option value="$PROJECT_DIR$/json/DataTournoi.json" />
+        <option value="$PROJECT_DIR$/pages/inscrits.php" />
+        <option value="$PROJECT_DIR$/pages/home.php" />
+        <option value="$PROJECT_DIR$/pages/resultats.php" />
+        <option value="$PROJECT_DIR$/html/1/Classement aprÃ¨s la ronde 1.html" />
+        <option value="$PROJECT_DIR$/pages/inscription.php" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/models/model_base.php" />
+        <option value="$PROJECT_DIR$/json/Tournois/2.json" />
+        <option value="$PROJECT_DIR$/html/1/Classement après la ronde 1.html" />
+        <option value="$PROJECT_DIR$/json/Inscrits/4.json" />
+        <option value="$PROJECT_DIR$/json/Tournois/58.json" />
+        <option value="$PROJECT_DIR$/json/Tournois/59.json" />
+        <option value="$PROJECT_DIR$/json/Tournois/60.json" />
+        <option value="$PROJECT_DIR$/json/Tournois/61.json" />
+        <option value="$PROJECT_DIR$/json/Tournois/62.json" />
+        <option value="$PROJECT_DIR$/json/Tournois/63.json" />
+        <option value="$PROJECT_DIR$/json/Tournois/64.json" />
+        <option value="$PROJECT_DIR$/json/Inscrits/1.json" />
+        <option value="$PROJECT_DIR$/json/Inscrits/58.json" />
+        <option value="$PROJECT_DIR$/json/Tournois/1.json" />
+        <option value="$PROJECT_DIR$/json/Inscrits/48.json" />
+        <option value="$PROJECT_DIR$/json/Inscrits/109.json" />
+        <option value="$PROJECT_DIR$/models/mail.php" />
+        <option value="$PROJECT_DIR$/controllers/controller_base.php" />
+        <option value="$PROJECT_DIR$/controllers/controller_base.php" />
+        <option value="$PROJECT_DIR$/global/config.php" />
+        <option value="$PROJECT_DIR$/Excel/oleread.inc" />
+        <option value="$PROJECT_DIR$/Excel/Spreadsheet/Excel/Reader/OLERead.php" />
+        <option value="$PROJECT_DIR$/Excel/reader.php" />
+        <option value="$PROJECT_DIR$/views/menu.php" />
+        <option value="$PROJECT_DIR$/models/xls_models/xls_base.php" />
+        <option value="$PROJECT_DIR$/models/xls_models/xls_joueur.php" />
+        <option value="$PROJECT_DIR$/files/config.php" />
+        <option value="$PROJECT_DIR$/views/home.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/views/inscription.php" />
+        <option value="$PROJECT_DIR$/files/utils.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/formAnimation.js" />
+        <option value="$PROJECT_DIR$/views/main.php" />
+        <option value="$PROJECT_DIR$/views/resultats.php" />
+        <option value="$PROJECT_DIR$/views/menu.php" />
+        <option value="$PROJECT_DIR$/views/inscrits.php" />
+        <option value="$PROJECT_DIR$/models/joueur.php" />
+        <option value="$PROJECT_DIR$/js/nav.js" />
+        <option value="$PROJECT_DIR$/controllers/home.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="1da4dd94-265a-4806-b517-ccbe95ec1025" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Chesstion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chesstion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chesstion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chesstion" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chesstion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chesstion" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chesstion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chesstion" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chesstion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chesstion" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chesstion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chesstion" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chesstion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chesstion" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chesstion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chesstion" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IUT/S3/W31/MVC_framework" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\timot\Desktop\T3_Echecs_BRS\Chesstion\global" />
+      <recent name="C:\wamp64\www\Interface_Web_MVC\files" />
+      <recent name="C:\wamp64\www\Interface_Web_MVC\views" />
+      <recent name="C:\wamp64\www\Interface_Web_MVC\controllers" />
+      <recent name="C:\wamp64\www\Interface_Web_MVC" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\timot\Desktop\T3_Echecs_BRS\Chesstion\Excel\Spreadsheet\Excel\Reader" />
+      <recent name="C:\Users\timot\Desktop\T3_Echecs_BRS\Chesstion" />
+      <recent name="C:\wamp64\www\Interface_Web\json\Tournois" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="T3" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="localhost" start_url="/Interface_Web/index.php?ref=1">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="PHP Web Page.T3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb6c564e-75c1-4168-8446-abf638b0cc5a" name="Default" comment="" />
+      <created>1473189417726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473189417726</updated>
+      <workItem from="1473189419704" duration="823000" />
+      <workItem from="1473229068503" duration="1018000" />
+      <workItem from="1473324154669" duration="1730000" />
+      <workItem from="1473334230198" duration="1042000" />
+      <workItem from="1473338175487" duration="753000" />
+      <workItem from="1473681114214" duration="7303000" />
+      <workItem from="1476360238118" duration="168000" />
+      <workItem from="1476973232066" duration="3856000" />
+      <workItem from="1477343964577" duration="6774000" />
+      <workItem from="1477917667734" duration="29000" />
+      <workItem from="1477917881381" duration="10380000" />
+      <workItem from="1478120475453" duration="573000" />
+      <workItem from="1478184601100" duration="5234000" />
+      <workItem from="1479128271490" duration="14567000" />
+      <workItem from="1479152853248" duration="5253000" />
+      <workItem from="1479224504847" duration="573000" />
+      <workItem from="1479229880523" duration="4350000" />
+      <workItem from="1479234480850" duration="16418000" />
+      <workItem from="1479289131743" duration="9223000" />
+      <workItem from="1479314947353" duration="12328000" />
+      <workItem from="1479333332213" duration="7536000" />
+      <workItem from="1479386501985" duration="7927000" />
+      <workItem from="1479400018932" duration="2704000" />
+      <workItem from="1479404125172" duration="1711000" />
+      <workItem from="1479482059116" duration="6050000" />
+      <workItem from="1479553556101" duration="24942000" />
+      <workItem from="1479593944710" duration="12361000" />
+      <workItem from="1479640875198" duration="13974000" />
+      <workItem from="1479737634693" duration="7410000" />
+      <workItem from="1479801973616" duration="6491000" />
+      <workItem from="1479829967184" duration="51000" />
+      <workItem from="1479830034812" duration="16363000" />
+      <workItem from="1479892246027" duration="2145000" />
+      <workItem from="1479904776111" duration="6792000" />
+      <workItem from="1479993837219" duration="10507000" />
+      <workItem from="1480248374793" duration="1053000" />
+      <workItem from="1480249951470" duration="1074000" />
+      <workItem from="1480336753415" duration="10643000" />
+      <workItem from="1480354625435" duration="1762000" />
+      <workItem from="1480366872979" duration="5145000" />
+      <workItem from="1480372572788" duration="4216000" />
+      <workItem from="1480425435515" duration="4529000" />
+      <workItem from="1480450804797" duration="6513000" />
+      <workItem from="1480494310072" duration="8434000" />
+      <workItem from="1480946892914" duration="732000" />
+      <workItem from="1480948966931" duration="647000" />
+      <workItem from="1480950335373" duration="1694000" />
+      <workItem from="1481030847715" duration="3982000" />
+      <workItem from="1481054078893" duration="214000" />
+      <workItem from="1481054379186" duration="7494000" />
+      <workItem from="1481063052736" duration="11698000" />
+      <workItem from="1481103883857" duration="3475000" />
+      <workItem from="1481108202988" duration="26727000" />
+      <workItem from="1481153004120" duration="2963000" />
+      <workItem from="1481203490049" duration="3263000" />
+      <workItem from="1481457243608" duration="2446000" />
+      <workItem from="1481494232293" duration="1682000" />
+      <workItem from="1481498054877" duration="603000" />
+      <workItem from="1481539917436" duration="1252000" />
+      <workItem from="1481546201107" duration="16226000" />
+      <workItem from="1481615110912" duration="16105000" />
+      <workItem from="1481674081664" duration="22000" />
+      <workItem from="1481715341203" duration="27142000" />
+      <workItem from="1481797241403" duration="8101000" />
+      <workItem from="1481816081471" duration="4517000" />
+      <workItem from="1481879163506" duration="1225000" />
+      <workItem from="1481891497872" duration="703000" />
+      <workItem from="1543594990197" duration="2001000" />
+      <workItem from="1543774389999" duration="12000000" />
+      <workItem from="1547144275084" duration="14000" />
+      <workItem from="1547144341247" duration="6959000" />
+      <workItem from="1547204475329" duration="22549000" />
+      <workItem from="1547416804647" duration="652000" />
+      <workItem from="1547581859808" duration="5895000" />
+      <workItem from="1547652448663" duration="10811000" />
+      <workItem from="1548183687959" duration="3330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="483870000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13965885" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.42080745" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.723727" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39906833" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
+      <window_info anchor="bottom" id="File Transfer" order="11" visible="true" weight="0.19934994" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.329429" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/json/Tournois/63.json" />
+    <entry file="file://$PROJECT_DIR$/json/Tournois/64.json" />
+    <entry file="file://$PROJECT_DIR$/json/Inscrits/20.json" />
+    <entry file="file://$PROJECT_DIR$/json/Tournois/58.json" />
+    <entry file="file://$PROJECT_DIR$/json/Inscrits/58.json" />
+    <entry file="file://$PROJECT_DIR$/json/Tournois/1.json" />
+    <entry file="file://$PROJECT_DIR$/json/Inscrits/1.json" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" />
+    <entry file="file://$PROJECT_DIR$/json/Inscrits/109.json" />
+    <entry file="file://$PROJECT_DIR$/48.json" />
+    <entry file="file://$PROJECT_DIR$/4.json" />
+    <entry file="file://$PROJECT_DIR$/json/Inscrits/51.json" />
+    <entry file="file://$PROJECT_DIR$/json/Inscrits/48.json" />
+    <entry file="file://$PROJECT_DIR$/views/errors/400.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/errors/404.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../temp/T3_Echecs_BRS/Interface_Web/views/menu.php" />
+    <entry file="file://$PROJECT_DIR$/views/errors/500.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global/utils.php" />
+    <entry file="file://$PROJECT_DIR$/global/config.php" />
+    <entry file="file://$PROJECT_DIR$/TSW31.sql" />
+    <entry file="file://$USER_HOME$/Downloads/TSW31.php" />
+    <entry file="file://$PROJECT_DIR$/../../Excel/reader.php" />
+    <entry file="file://$PROJECT_DIR$/../../example.php" />
+    <entry file="file://$PROJECT_DIR$/example2.php" />
+    <entry file="file://$PROJECT_DIR$/Excel/Spreadsheet/Excel/Reader/OLERead.php" />
+    <entry file="file://$PROJECT_DIR$/Excel/reader.php" />
+    <entry file="file://$PROJECT_DIR$/example.php" />
+    <entry file="file://$PROJECT_DIR$/models/xls_models/xls_mail.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="685" column="9" selection-start-line="685" selection-start-column="9" selection-end-line="685" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.php" />
+    <entry file="file://$PROJECT_DIR$/XLSXReader.php" />
+    <entry file="file://$PROJECT_DIR$/models/xls_models/xls_base.php" />
+    <entry file="file://$PROJECT_DIR$/models/xls_models/xls_joueur.php" />
+    <entry file="file://$PROJECT_DIR$/models/model_base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3281">
+          <caret line="193" column="37" selection-start-line="193" selection-start-column="37" selection-end-line="193" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/utils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/controller_base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/formAnimation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="300" selection-start-line="300" selection-end-line="304" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inscrits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/joueur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="74" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="206" column="69" selection-start-line="206" selection-start-column="69" selection-end-line="206" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="174" column="33" lean-forward="true" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/resultats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+{
+  "Ref": 36,
+  "Nom": "Le tournoi de Popo",
+  "DateDebut": "14/12/2016",
+  "DateFin": "15/12/2017",
+  "NomLieu": "L'endroit",
+  "Ville": "Nom de Ville",
+  "LieuRef": 1,
+  "AdresseNum": "12",
+  "AdresseRue": "Place pour Être",
+  "PrixJeune": 10.0,
+  "PrixVieux": 1.111111E+15,
+  "Majoration": 0.0,
+  "LimiteAge": 8,
+  "NbParticipants": 500,
+  "NbOpens": 2,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Nouvel Open",
+      "EloMax": -1
+    },
+    {
+      "Ref": 2,
+      "Nom": "Sarrebourg",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    }
+  ],
+  "Arbitre": "ManuelVallsdu93@arbitre.fr",
+  "Ouvert": true,
+  "Etat": 2,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": true
+}

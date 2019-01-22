@@ -1,0 +1,16 @@
+[
+  {
+    "Ref": 1,
+    "Nom": "Paris",
+    "CodePostal": "75001",
+    "TsLesLieux": [
+      {
+        "Ref": 3,
+        "Nom": "La Tour Eiffel",
+        "Numero": "5",
+        "Rue": "Avenue Anatole"
+      }
+    ],
+    "NomComplet": "Paris 75001"
+  }
+]

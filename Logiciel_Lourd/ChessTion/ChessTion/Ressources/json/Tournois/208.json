@@ -1,0 +1,37 @@
+{
+  "Ref": 208,
+  "Nom": "trtrtrr",
+  "DateDebut": "15/12/2016",
+  "DateFin": "15/12/2016",
+  "NomLieu": "djsd",
+  "Ville": "Nom de Ville",
+  "LieuRef": 3,
+  "AdresseNum": "12",
+  "AdresseRue": "dsd",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 0.0,
+  "LimiteAge": 20,
+  "NbParticipants": 500,
+  "NbOpens": 1,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Nouvel Open",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    }
+  ],
+  "Arbitre": "arbitre@arbitre.fr",
+  "Ouvert": false,
+  "Etat": 5,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": false
+}

@@ -1,0 +1,52 @@
+{
+  "Ref": 165,
+  "Nom": "Nouveau tournoi",
+  "DateDebut": "03/12/2018",
+  "DateFin": "03/12/2018",
+  "NomLieu": "La Tour Eiffel",
+  "Ville": "Paris",
+  "LieuRef": 3,
+  "AdresseNum": "5",
+  "AdresseRue": "Avenue Anatole",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 0.0,
+  "LimiteAge": 20,
+  "NbParticipants": 500,
+  "NbOpens": 2,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Nouvel Open",
+      "EloMax": -1
+    },
+    {
+      "Ref": 2,
+      "Nom": "B",
+      "EloMax": 2000
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 1,
+      "Nom": "Frites",
+      "Prix": 5.0
+    },
+    {
+      "Ref": 2,
+      "Nom": "Toast",
+      "Prix": 6.0
+    }
+  ],
+  "Arbitre": "timothee.soen@gmail.com",
+  "Ouvert": false,
+  "Etat": 3,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": false
+}

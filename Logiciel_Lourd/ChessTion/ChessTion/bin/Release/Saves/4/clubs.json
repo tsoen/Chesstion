@@ -1,0 +1,50 @@
+[
+  {
+    "Ref": 1418,
+    "NrFFE": "T17058",
+    "Nom": "La Tour de Germanicus",
+    "Ligue": "NAQ",
+    "Commune": "SAINTES",
+    "Actif": "2013"
+  },
+  {
+    "Ref": 1532,
+    "NrFFE": "U13029",
+    "Nom": "Cercle d'Echecs Aubagnais",
+    "Ligue": "PAC",
+    "Commune": "AUBAGNE",
+    "Actif": "2013"
+  },
+  {
+    "Ref": 821,
+    "NrFFE": "M77013",
+    "Nom": "Fontainebleau-Avon",
+    "Ligue": "IDF",
+    "Commune": "FONTAINEBLEAU",
+    "Actif": "2013"
+  },
+  {
+    "Ref": 311,
+    "NrFFE": "I06014",
+    "Nom": "Cannes Echecs",
+    "Ligue": "PAC",
+    "Commune": "CANNES",
+    "Actif": "2013"
+  },
+  {
+    "Ref": 1299,
+    "NrFFE": "R59012",
+    "Nom": "Echiquier d'Aulnoye",
+    "Ligue": "HDF",
+    "Commune": "AULNOYE AYMERIES",
+    "Actif": "2013"
+  },
+  {
+    "Ref": 22,
+    "NrFFE": "B68067",
+    "Nom": "Les Cheiks de Brossolette",
+    "Ligue": "ALS",
+    "Commune": "MULHOUSE",
+    "Actif": "2013"
+  }
+]

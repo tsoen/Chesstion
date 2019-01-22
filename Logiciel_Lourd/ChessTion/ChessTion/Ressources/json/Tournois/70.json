@@ -1,0 +1,52 @@
+{
+  "Ref": 70,
+  "Nom": "Nouveau tournoi",
+  "DateDebut": "24/12/2016",
+  "DateFin": "25/12/2016",
+  "NomLieu": "Le Bâtiment",
+  "Ville": "Nom de Ville",
+  "LieuRef": 2,
+  "AdresseNum": "5",
+  "AdresseRue": "Rue du RU",
+  "PrixJeune": 8.0,
+  "PrixVieux": 25.0,
+  "Majoration": 1.0,
+  "LimiteAge": 19,
+  "NbParticipants": 500,
+  "NbOpens": 2,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Mon open des forts",
+      "EloMax": 2000
+    },
+    {
+      "Ref": 2,
+      "Nom": "Mon open des faibles",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 1,
+      "Nom": "Frites",
+      "Prix": 2.5
+    },
+    {
+      "Ref": 2,
+      "Nom": "Potatoes",
+      "Prix": 2.75
+    }
+  ],
+  "Arbitre": "arbitre@arbitre.fr",
+  "Ouvert": true,
+  "Etat": 2,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": true
+}

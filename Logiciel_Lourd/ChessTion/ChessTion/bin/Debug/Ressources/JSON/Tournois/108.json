@@ -1,0 +1,37 @@
+{
+  "Ref": 108,
+  "Nom": "Nouveau tournoi",
+  "DateDebut": "15/12/2016",
+  "DateFin": "15/12/2016",
+  "NomLieu": "L'endroit",
+  "Ville": "Nom de Ville",
+  "LieuRef": 1,
+  "AdresseNum": "12",
+  "AdresseRue": "Place pour Être",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 0.0,
+  "LimiteAge": 20,
+  "NbParticipants": 500,
+  "NbOpens": 1,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Nouvel Open",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    }
+  ],
+  "Arbitre": "arbitre@arbitre.fr",
+  "Ouvert": true,
+  "Etat": 2,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": false
+}

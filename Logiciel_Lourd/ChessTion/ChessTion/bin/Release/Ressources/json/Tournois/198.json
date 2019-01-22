@@ -1,0 +1,77 @@
+{
+  "Ref": 198,
+  "Nom": "DEMO Tournament",
+  "DateDebut": "23/01/2019",
+  "DateFin": "25/01/2019",
+  "NomLieu": "Club d'Echecs de l'ENSICAEN",
+  "Ville": "Caen",
+  "LieuRef": 5,
+  "AdresseNum": "6",
+  "AdresseRue": "Boulevard Maréchal Juin",
+  "PrixJeune": 10.0,
+  "PrixVieux": 20.0,
+  "Majoration": 2.0,
+  "LimiteAge": 20,
+  "NbParticipants": 50,
+  "NbOpens": 4,
+  "Opens": [
+    {
+      "Ref": 1,
+      "Nom": "Debutant",
+      "EloMax": 1500
+    },
+    {
+      "Ref": 2,
+      "Nom": "Intermediaire",
+      "EloMax": 2000
+    },
+    {
+      "Ref": 3,
+      "Nom": "Confirmés",
+      "EloMax": 2500
+    },
+    {
+      "Ref": 4,
+      "Nom": "Professionnel",
+      "EloMax": -1
+    }
+  ],
+  "Repas": [
+    {
+      "Ref": -1,
+      "Nom": "Aucun",
+      "Prix": 0.0
+    },
+    {
+      "Ref": 1,
+      "Nom": "Bière",
+      "Prix": 1.0
+    },
+    {
+      "Ref": 3,
+      "Nom": "Soda",
+      "Prix": 1.0
+    },
+    {
+      "Ref": 5,
+      "Nom": "Hotdog",
+      "Prix": 2.0
+    },
+    {
+      "Ref": 7,
+      "Nom": "Frite petite",
+      "Prix": 1.0
+    },
+    {
+      "Ref": 8,
+      "Nom": "Frite grande",
+      "Prix": 3.0
+    }
+  ],
+  "Arbitre": "diablotim@sfr.fr",
+  "Ouvert": true,
+  "Etat": 2,
+  "NbRondes": 6,
+  "DureeRonde": "50:10",
+  "ConfirmMail": false
+}
