@@ -1,0 +1,8 @@
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadInfoFromPanel() takes 0 ms
+SelectionnerOpen(int) - CChesstion.OpenSelectionne = GOpen.GetOpen(reference); takes 0 ms
+Readonly to False
+Readonly to False
+SelectionnerOpen(int) - LoadOpenToPanels() takes 8 ms
+Readonly to False
