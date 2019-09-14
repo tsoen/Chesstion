@@ -1,5 +1,12 @@
 Bienvenue sur le projet.
 
+"Chesstion/" contient la partie Web de l'application.
+
+"Logiciel_Lourd/ChessTion/" contient l'application C#.
+
+Télécharger le dossier "Versions Finales/Chesstion - Logiciel Lourd/" pour obtenir une version exécutable de l'application.
+
+
 Dossier de conception : 
 https://docs.google.com/document/d/1yAfihzk2XlcbqOgdUkW6uXHydrD4WkxW8XKOt2VycVU/edit?usp=sharing
 
